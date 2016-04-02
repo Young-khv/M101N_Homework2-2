@@ -1,0 +1,11 @@
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\M101N_Homework3-1.exe.config
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\M101N_Homework3-1.exe
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\M101N_Homework3-1.pdb
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\MongoDB.Bson.dll
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\MongoDB.Driver.Core.dll
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\MongoDB.Driver.dll
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\MongoDB.Bson.xml
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\bin\Debug\MongoDB.Driver.xml
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\obj\Debug\M101N_Homework3-1.csprojResolveAssemblyReference.cache
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\obj\Debug\M101N_Homework3-1.exe
+S:\MongoDB\Week2\M101N-Homework-2.2\M101N_Homework2-2\M101N_Homework3-1\obj\Debug\M101N_Homework3-1.pdb
